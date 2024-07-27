@@ -4,5 +4,5 @@ petoi_walk.py computes the inverse kinematics and runs a simulation in Matplotli
 petoi_walk.ino hard-codes the angles computed from python and implements the servo manipulation.
 
 <p>
-  <img width="35%" src="https://github.com/bstars/Dreamer-Walker/blob/main/50.gif">
+  <img width="35%" src="https://github.com/bstars/PetoiWalk/blob/main/walk.gif">
 </p>
